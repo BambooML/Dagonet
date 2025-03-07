@@ -30,8 +30,8 @@ Features/roadmap:
  - [ ] Inference
    - [ ] Sampler settings (topk, topp, minp, temp, etc)
    - [x] KV Cache
+ - [ ] websearch / tool use / Mech interp tricks (Activation boosting/patching, hallucination circuits, refusal circuits, control vectors, settle as I code)
  - [ ] benchmark evaluation script + benchmark numbers
- - [ ] websearch / tool use / Mech interp tricks (Activation boosting/patching, hallucination circuits, refusal circuits, control vectors, settle as I code) 
 
 Deprecated Features (were tested, removed):
 
